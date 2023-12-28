@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "662986295849",
+    "project_id": "signin-chordfinder",
+    "storage_bucket": "signin-chordfinder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662986295849:android:e76c934d819de6cdb12a38",
+        "android_client_info": {
+          "package_name": "com.example.chord_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662986295849-uo88nsj89lo2dj9bn7k5uvt0thhpbovc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXOUGXO-l-gNTesv7PCL09WeAjh_kx968"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662986295849-uo88nsj89lo2dj9bn7k5uvt0thhpbovc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "662986295849-br653c8uo31d76c6ppne9pulufde8jdd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chordFinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
